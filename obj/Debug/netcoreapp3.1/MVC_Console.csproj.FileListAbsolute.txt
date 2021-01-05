@@ -1,0 +1,26 @@
+E:\Curso Tecnico Senai  DV\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.exe
+E:\Curso Tecnico Senai  DV\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.deps.json
+E:\Curso Tecnico Senai  DV\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.dll
+E:\Curso Tecnico Senai  DV\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.pdb
+E:\Curso Tecnico Senai  DV\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.dll
+E:\Curso Tecnico Senai  DV\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.pdb
+E:\Curso Tecnico Senai  DV\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.exe
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.deps.json
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.dll
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.pdb
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.dll
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.pdb
+E:\Curso Tecnico Senai  DV\MVC - Arquitetura de Software\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
