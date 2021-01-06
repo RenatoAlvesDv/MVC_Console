@@ -16,5 +16,11 @@ namespace MVC_Console.Controllers
             List<Produto> todos = produto.Ler();
             produtoView.ListarTodos(todos);
         }
+        public void Cadastrar()
+        {
+            //Pedimos para nosso modelo inserir as infromaçãoes capturadas na View
+            produto.Inserir(produtoView.CadastrarProduto() );
+
+        }
     }
 }
